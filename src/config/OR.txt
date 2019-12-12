@@ -1,0 +1,29 @@
+#Login Page Object
+txtbx_UserName=//*[@id='s_swepi_1']
+txtbx_Password=//*[@id='s_swepi_2']
+click_Login=//*[@id='s_swepi_22']
+#Communication page
+click_communicationtab=//*[@id='s_sctrl_tabScreen']/ul/li[11]
+click_querybtn=//*[@id='s_1_1_8_0_Ctrl']
+enter_commName=//table[@id='s_1_l']/tbody/tr[2]/td[2]/input
+click_Gobtn=//*[@id='s_1_1_5_0_Ctrl']
+click_ActiveActs=//*[@id='s_2_1_2_0_Ctrl']
+click_Adhocsubmit=//*[@id='s_2_1_0_0_Ctrl']
+#Accounts page
+click_Acttabs=//*[@id='s_sctrl_tabScreen']/ul/li[5]
+click_AllActs=//*[@id='s_sctrl_tabView']/ul/li[2]
+click_querybtn2=//*[@id='s_2_1_19_0_Ctrl']
+input_tab=//table[@id='s_2_l']/tbody/tr[2]/td[2]/input
+input_tab1=//table[@id='s_2_l']/tbody/tr[2]/td[3]/input
+input_AccountNumber=//table[@id='s_2_l']/tbody/tr[2]/td[11]/input
+click_Gobtn1=//*[@id='s_2_1_16_0_Ctrl']
+click_Commuinstancetsb=//*[@id='s_sctrl_tabView']/ul/li[12]
+click_Commbtn=//*[@id='s_1_1_9_0_Ctrl']
+Input_Calcountry=//*[@id='s_3_1_18_0_icon']
+Input_CalType=//*[@id='s_3_1_19_0_icon']
+input_CommName=//*[@id='s_3_1_25_0_icon']
+click_querybtn1=//*[@id='s_S_A7_div']/form/div/table/tbody/tr/td[1]/span[2]/button
+input_communicationName1=//table[@id='s_7_l']/tbody/tr[2]/td[2]/input
+click_gobtn=//*[@id='s_S_A7_div']/form/div/table/tbody/tr/td[1]/span[3]/button
+click_okbtn=//*[@id='s_S_A7_div']/form/div/div[2]/span[1]/button
+click_savebtn=//*[@id='s_3_1_54_0_Ctrl']
