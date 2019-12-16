@@ -8,8 +8,8 @@ public class Constants {
     //Declared as 'final', so that the value of this variable can be changed
     // 'String' & 'int' are the data type for storing a type of value	
 	public static final String URL = "http://usappobiewt100:81/fins_oui/start.swe?SWECmd=Login&SWECM=S&SRN=&SWEHo=usappobiewt100";
-	public static final String Path_TestData = "C://Users//ammanrr.CORP//eclipse-workspace//Framework1//src//dataEnginee//Test3.xlsx";
-	public static final String Path_OR="C://Users//ammanrr.CORP//eclipse-workspace//Framework1//src//config//OR.txt";
+	public static final String Path_TestData = "C://Users//ammanrr//eclipse-workspace//Framework1//src//dataEnginee//Test3.xlsx";
+	public static final String Path_OR="C://Users//ammanrr//eclipse-workspace//Framework1//src//config//OR.txt";
 	public static final String File_TestData = "Test3.xlsx";
 
 	//List of Data Sheet Column Numbers
